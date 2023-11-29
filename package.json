@@ -1,0 +1,29 @@
+{
+  "name": "DeadTheme",
+  "displayName": "DeadTheme",
+  "description": "An Extension for great Vs Code!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "DeadTheme",
+    "Golden Theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dead Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dead Theme-color-theme.json"
+      }
+    ]
+  }
+}
