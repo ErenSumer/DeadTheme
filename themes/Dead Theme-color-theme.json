@@ -35,8 +35,8 @@
 
     "editorSuggestWidget.background": "#000",
     "editorSuggestWidget.border": "#c88164b5",
-    "editorSuggestWidget.selectedForeground": "#000",
-    "editorSuggestWidget.selectedBackground": "#c88164b5",
+    "editorSuggestWidget.selectedForeground": "#a05335b5",
+    "editorSuggestWidget.selectedBackground": "#000",
     "editorSuggestWidget.selectedIconForeground": "#000",
 
     
