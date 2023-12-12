@@ -8,6 +8,21 @@
 
     "scrollbar.shadow": "#c88164b5",
     "welcomePage.background": "#000",
+    "welcomePage.progress.foreground": "#c88164b5",
+    "welcomePage.tileBorder": "#c88164b5",
+    "welcomePage.progress.background": "#000",
+    "welcomePage.tileHoverBackground": "#1b1a1ab5",
+    "welcomePage.tileBackground": "#000",
+
+    "icon.foreground": "#c88164b5",
+    "list.filterMatchBackground": "#000",
+    
+
+    "checkbox.background": "#000",
+    "checkbox.border": "#c88164b5",
+    "checkbox.foreground": "#c88164b5",
+    "charts.foreground": "#c88164b5",
+    "checkbox.selectBackground": "#c88164b5",
 
     "panel.background": "#000",
     "panel.border": "#c88164b5",
@@ -17,7 +32,14 @@
     "terminalCursor.background": "#c88164b5",
     "badge.foreground": "#c88164b5",
     "terminal.border": "#c88164b5",
+
     "editorSuggestWidget.background": "#000",
+    "editorSuggestWidget.border": "#c88164b5",
+    "editorSuggestWidget.selectedForeground": "#000",
+    "editorSuggestWidget.selectedBackground": "#c88164b5",
+    "editorSuggestWidget.selectedIconForeground": "#000",
+
+    
     "editor.background": "#000",
     "editorHint.foreground": "#c88164b5",
     "editorHint.border": "#c88164b5",
@@ -50,6 +72,7 @@
     "editor.foreground": "#c88164b5",
     "editor.lineHighlightBackground": "#6158557f",
     "editor.foldBackground": "#000",
+    
     "editor.hoverHighlightBackground": "#000",
     "editorWarning.background": "#c88164b5",
     "editorHoverWidget.background": "#000",
@@ -75,6 +98,7 @@
     "button.background": "#000",
     "button.foreground": "#e6b6a2b5",
     "textLink.foreground": "#483939",
+    "textLink.activeForeground": "#c88164b5",
     "button.hoverBackground": "#e6b6a2b5",
     "button.secondaryBackground": "#000",
     "button.secondaryForeground": "#c88164b5",
@@ -149,7 +173,7 @@
     "menubar.selectionBackground": "#c88164b5",
     "menu.separatorBackground": "#c88164b5",
     "menu.border": "#c88164b5",
-    "editorSuggestWidget.selectedBackground": "#000",
+    
 
     "scrollbarSlider.background": "#c88164b5",
     "scrollbarSlider.activeBackground": "#000",
@@ -157,7 +181,48 @@
 
     "notifications.background": "#000",
     "notifications.border": "#c88164b5",
-    "notifications.foreground": "#c88164b5"
+    "notifications.foreground": "#c88164b5",
+    "notificationCenterHeader.background": "#000000",
+    "notificationCenter.border": "#c88164b5",
+    "notificationsInfoIcon.foreground": "#c88164b5",
+    "notificationCenterHeader.foreground": "#c88164b5",
+    "notificationsErrorIcon.foreground": "#c88164b5",
+    "notificationsWarningIcon.foreground": "#c88164b5",
+
+
+    "settings.checkboxBackground": "#000",
+    "settings.checkboxBorder": "#c88164b5",
+    "settings.checkboxForeground": "#c88164b5",
+    "settings.headerForeground": "#c88164b5",
+    "settings.dropdownBackground": "#000",
+    "settings.numberInputForeground": "#c88164b5",
+    "settings.numberInputBackground": "#000",
+    "settings.textInputBackground": "#000",
+    "settings.textInputBorder": "#c88164b5",
+    "settings.headerBorder": "#c88164b5",
+    "search.resultsInfoForeground": "#c88164b5",
+    "settings.numberInputBorder": "#c88164b5",
+    "settings.focusedRowBackground": "#000",
+    "settings.textInputForeground": "#c88164b5",
+    "settings.dropdownListBorder": "#c88164b5",
+    "settings.dropdownBorder": "#c88164b5",
+    "settings.sashBorder": "#c88164b5",
+    "settings.rowHoverBackground": "#000",
+    "settings.settingsHeaderHoverForeground": "#c88164b5",
+    "settings.focusedRowBorder": "#c88164b5",
+    "editorStickyScroll.background": "#000",
+    "button.border": "#c88164b5",
+    "activityBar.activeBorder": "#c88164b5",
+    "activityBar.activeFocusBorder": "#c88164b5",
+    "searchEditor.textInputBorder": "#c88164b5",
+    "settings.dropdownForeground": "#c88164b5",
+    "searchEditor.findMatchBorder": "#c88164b5",
+    "searchEditor.findMatchBackground": "#000",
+    "button.separator": "#c88164b5",
+    "extensionButton.foreground": "#c88164b5",
+    "extensionButton.background": "#000"
+
+
   },
   "tokenColors": [
     {
