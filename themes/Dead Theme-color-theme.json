@@ -38,6 +38,8 @@
     "editorSuggestWidget.selectedForeground": "#a05335b5",
     "editorSuggestWidget.selectedBackground": "#000",
     "editorSuggestWidget.selectedIconForeground": "#000",
+    
+    
 
     
     "editor.background": "#000",
@@ -84,6 +86,7 @@
     "activityBar.inactiveForeground": "#645a4ae7",
     "activityBarBadge.foreground": "#c88164b5",
     "activityBarBadge.background": "#000",
+    "activityBar.dropBorder": "#c88164b5",
     "activityBar.border": "#c88164b5",
     "activityBar.activeBackground": "#000",
 
@@ -91,7 +94,8 @@
     "statusBar.border": "#c88164b5",
     "statusBar.foreground": "#c88164b5",
     "statusBar.debuggingBackground": "#000",
-    "statusBar.noFolderBackground": "#c88164b5",
+    "statusBar.noFolderBackground": "#000000b5",
+    
     "statusBarItem.compactHoverBackground": "#000",
     "statusBarItem.errorHoverBackground": "#c88164b5",
 
@@ -113,7 +117,7 @@
     "editorGroupHeader.tabsBorder": "#000",
     "editorGroupHeader.border": "#6b412299",
 
-    "breadcrumb.focusForeground": "#ffff",
+    "breadcrumb.focusForeground": "#c88164b5",
     "breadcrumb.foreground": "#ab9393cc",
     "breadcrumb.background": "#000",
 
@@ -176,7 +180,7 @@
     
 
     "scrollbarSlider.background": "#c88164b5",
-    "scrollbarSlider.activeBackground": "#000",
+    "scrollbarSlider.activeBackground": "#fdc9b4b5",
     "scrollbarSlider.hoverBackground": "#e5980a37",
 
     "notifications.background": "#000",
@@ -220,7 +224,14 @@
     "searchEditor.findMatchBackground": "#000",
     "button.separator": "#c88164b5",
     "extensionButton.foreground": "#c88164b5",
-    "extensionButton.background": "#000"
+    "extensionButton.background": "#000",
+    "extensionButton.separator": "#c88164b5",
+    "extensionButton.hoverBackground": "#c88164b5",
+
+    "input.background": "#000",
+    "input.border": "#c88164b5",
+    "input.foreground": "#c88164b5",
+    "input.placeholderForeground": "#ffc1a9b5"
 
 
   },
