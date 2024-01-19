@@ -1,8 +1,8 @@
 {
   "name": "DeadTheme",
-  "publisher": "Deadscreen",
+  "publisher": "ErenSumer",
   "displayName": "DeadTheme",
-  "description": "An Extension for great Vs Code!",
+  "description": "A Theme Extension For Visual Studio Code",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
@@ -16,6 +16,9 @@
   },
   "keywords": [
     "DeadTheme",
+    "dark",
+    "special",
+    "golden",
     "Golden Theme"
   ],
   "contributes": {
