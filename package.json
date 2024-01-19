@@ -1,7 +1,7 @@
 {
   "name": "themeproject",
   "publisher": "ErenSumer",
-  "displayName": "DeadTheme",
+  "displayName": "Dead Theme",
   "description": "A Theme Extension For Visual Studio Code",
   "version": "0.0.1",
   "engines": {
